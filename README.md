@@ -3,7 +3,7 @@
 ### This is an Eureka Server.
 
 **Dependencies used:**
-Eureka Server (spring-cloud-netflix Eureka Server)
+1. Eureka Server (spring-cloud-netflix Eureka Server)
 
 **This Server runs on default port, 8761.**
 
